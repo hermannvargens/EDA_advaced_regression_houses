@@ -6,5 +6,5 @@ Procuraremos realizar uma análise voltada a entender cada tipo de variável, be
 
 Ao final, analisaremos ainda, algumas das principais características dos outliers.
 
-Melhorias futuras: Incluir na análise exploratória, um estudo sobre a quantidade de casas vendidas em cada ano. 
+**Melhorias futuras:** Incluir na análise exploratória, um estudo sobre a quantidade de casas vendidas em cada ano. 
 É possível que casas similares na mesma região estejam com preços muito discrepantes apenas em função de uma valorização dos imóveis?
