@@ -1,2 +1,0 @@
-Incluir na análise exploratória, um estudo sobre a quantidade de casas vendidas em cada ano. 
-É possível que casas similares na mesma região estejam com preços muito discrepantes apenas em função de uma valorização dos imóveis?
